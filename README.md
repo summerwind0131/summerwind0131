@@ -1,9 +1,6 @@
 # About me
 
-
-<!--This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
+✨ _Undergraduate of Nankai University_ ✨
 
 - 🔭 I’m currently an undergraduate student of Nankai University,majoring in artificial intelligence and technology.  
 
