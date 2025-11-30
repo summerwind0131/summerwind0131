@@ -1,16 +1,29 @@
-## Hi there 👋
+# About me
 
-<!--
-**summerwind0131/summerwind0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 🔭 I’m currently an undergraduate student of Nankai University,majoring in artificial intelligence and technology.  
+
+
+- 🌱 I’m currently learning artificial intelligence, computer science and robotics.     
+
+
+- 👯 I’m looking to collaborate on AI related topics.
+
+
+- 🤔 I’m looking for help with AI related knowledge.
+
+
+- 💬 Ask meabout matters related to Nankai University.
+
+
+- 📫 How to reach me: ~
+
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- ⚡ Fun fact: I am interested in running and I have participated in several running events.
