@@ -1,4 +1,3 @@
-```markdown
 <!-- Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Fengyuan+Shi!;AI+Student+@+Nankai+University;Meta-learning+%7C+Computational+Biology+%7C+LLM+for+Optimization;Keep+Running,+Keep+Exploring!&center=true&size=26&color=1A73E8">
@@ -37,10 +36,6 @@ An open-source repository for AI-related courses, learning notes, and study reso
 ### LLM for Combinatorial Optimization
 
 Exploring how large language models can assist, analyze, and guide search processes in combinatorial optimization problems.
-
-### Meta-learning for Computational Biology
-
-Exploring task-aware and disease-aware meta-learning methods for few-shot disease diagnosis and biological data analysis.
 
 ### Computer Vision Projects
 
@@ -107,4 +102,3 @@ Course and research projects involving image classification, gesture recognition
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=summerwind0131&style=flat-square&color=blue" alt="Visitor Count">
 </p>
-```
