@@ -58,14 +58,6 @@ Course and research projects involving image classification, gesture recognition
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=summerwind0131&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerwind0131&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
 
 ## 📌 Currently Learning
 
@@ -82,11 +74,13 @@ Course and research projects involving image classification, gesture recognition
 <p align="center">
   <img src="https://raw.githubusercontent.com/summerwind0131/NKU-AI-Study/main/NKU_AI_Study_mascot_Puppy_Eggie.jpg" width="220" alt="NKU-AI-Study mascot">
 </p>
+
 ---
 
 ## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=summerwind0131&style=flat-square&color=blue)
+
 ---
 
 ## 🌱 Motto
@@ -94,6 +88,8 @@ Course and research projects involving image classification, gesture recognition
 <p align="center">
   <i>Stay curious, keep building, and learn by doing.</i>
 </p>
+
+---
 
 <p align="center">
   ⭐️ Thanks for visiting my profile! Feel free to explore my projects. ⭐️
